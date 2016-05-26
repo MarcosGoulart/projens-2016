@@ -14,6 +14,10 @@ Sexta: 8h as 12h e 14h as 18h
 
 Marcos Goulart de Oliveira
 --------------------------
+Terça: 18:10 as 20:10
+Quarta: 8h as 12h
+Quinta: 9h as 11h 
+
 
 Eduardo da Silva Amorim
 -----------------------
